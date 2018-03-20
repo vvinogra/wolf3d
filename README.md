@@ -31,4 +31,8 @@ Mac OS X El Capitan(10.11.5) or higher
 	+ `1 - undestroyable wall`
 	+ `2 - destroyable wall`
 + `You can change player's position:`
-	* `First line is the player's coordinates`
+	+ `First line in the map is the player's coordinates`
+
+<img width="1112" alt="screenshot1" src="https://user-images.githubusercontent.com/33462952/37667935-e9cf141a-2c6b-11e8-83c4-dd49724ffeed.png">
+<img width="1112" alt="screenshot2" src="https://user-images.githubusercontent.com/33462952/37667937-e9ec5dfe-2c6b-11e8-8807-9528a0b6361c.png">
+<img width="1112" alt="screenshot3" src="https://user-images.githubusercontent.com/33462952/37667939-ea0ce47a-2c6b-11e8-8175-daa01e93daad.png">
