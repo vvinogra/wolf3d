@@ -6,7 +6,7 @@
 #    By: vvinogra <vvinogra@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/12/25 16:41:32 by vvinogra          #+#    #+#              #
-#    Updated: 2018/03/20 16:19:31 by vvinogra         ###   ########.fr        #
+#    Updated: 2018/03/20 20:34:50 by vvinogra         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -56,6 +56,7 @@ clean:
 fclean: clean
 	@rm -f $(NAME)
 	@rm -f libft/libft.a
+	@make clean -C minilibx_macos
 	@echo "Executable file deleted: libft/libft.a"
 	@echo "Executable file deleted: $(NAME)"
 
